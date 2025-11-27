@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533343383344",
+    "project_id": "vise-8d6d7",
+    "storage_bucket": "vise-8d6d7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533343383344:android:e54c8566f511c1f23aa2f5",
+        "android_client_info": {
+          "package_name": "dev.vlab.gold"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA17HlsRUJntjCGz7xwOfyzm1RWHVmEpsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
